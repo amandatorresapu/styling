@@ -1,0 +1,29 @@
+* {
+  padding: 2px 2px 2px 2px;
+  margin: 2px 2px;
+}
+
+h1 {
+  color: white;
+  background-color: black;
+  padding: 15px;
+}
+span {
+  color: aqua;
+}
+
+h3 {
+  background-color: blueviolet;
+  text-align: center;
+  color: white;
+  padding: 15px;
+  font-style: italic;
+}
+
+h2 {
+  color: black;
+  background-color: rgb(105, 197, 228);
+  text-align: right;
+  padding: 15px;
+  text-decoration: underline;
+}
